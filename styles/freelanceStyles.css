@@ -1,0 +1,37 @@
+@charset "utf-8";
+ 
+
+h1 {
+    color: #ECFF33;
+    font-size: 50px;
+}
+img {
+    float: left;
+}
+#wrapper {
+    background-color: white;
+    width: 1200px;
+}
+h2 {
+    color: #ECFF33;
+    font-size: 18px;
+    text-align: center;
+}
+
+#topNav {
+    background-color: #B01618;
+}
+#footer {
+    background-color: #1210E9;
+}
+
+
+body {
+    background-color: purple;
+}
+#banner {
+    background-color: #54BD6A;
+}
+#banner {
+    background-color: #43E94C;
+}

@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Wizard Web Design</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../styles/freelanceStyles.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+</style>
+</head>
+
+<body>
+	<div id="banner"><img src="../images/Wizard Web.png" alt="" width="100" id="logo"/>
+<h1> Wizard Web Design Company </h1>
+<h2> Become a web design wiz! </h2></div>
+
+
+	
+	
+	
+	
+	<div id="wrapper">
+	
+	
+	
+	
+  
+ <div id="topNav">Content for  id "topNav" Goes Here
+	
+	
+</div> <!--end of top nav-->
+	
+	
+	
+<p>Wizard Web Design helps you design websites to make you look like a web design wiz! </p>
+	
+<p> Here at Wizard Web Design, we are able to make websites of all types! if you have an idea we can turn that idea into a reality. Make yourself look like a web design wiz by working with Wizard Web Design!</p>
+	
+
+	
+</div> <!---end of wrapper-->
+
+	
+	
+<div id="footer">Content for  id "footer" Goes Here
+	
+</div> <!---end of footer--->
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</body>
+</html>
