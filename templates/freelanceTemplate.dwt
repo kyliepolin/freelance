@@ -16,11 +16,11 @@
 	
 	<div id="banner">
 		
-		<img src="../images/Wizard Web.png" alt="" width="100" id="logo"/>
-		<h1> Wizard Web Design Company </h1>
+		<img src="../images/Wizard Web.png" alt="" width="140" id="logo"/>
+	  <center><h1> Wizard Web Design Company </h1></center>
 		<h2> Become a web design wiz! </h2>
 
-	</div>	<!---end of banner--->
+  </div>	<!---end of banner--->
 	
 	
   
@@ -29,11 +29,11 @@
 	<ul 
 		class="navmenu">
 	<li><a href="../index.html">Home</a></li>
-	<li><a href="../about.html">About</a></li>
-	<li><a href="#">services</a></li>
-	<li><a href="#">Contact us</a></li>
+	<li><a href="../aboutUs.html" >About</a></li>
+	<li><a href="../services.html" target="new">services</a></li>
+	<li><a href="../contactUs.html">Contact us</a></li>
 </ul>
-	 
+	
 </div> <!--end of top nav-->
 	
 	
@@ -53,7 +53,7 @@
 <p>Wizard Web Design helps you design websites to make youPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vit</p>
 
 	 
-	 <!-- TemplateEndEditable -->	
+    <!-- TemplateEndEditable -->	
 	
 </div> <!--end of content-->
 
