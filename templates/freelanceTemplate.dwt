@@ -9,7 +9,12 @@
 <!-- TemplateEndEditable -->
 <link href="../styles/freelanceStyles.css" rel="stylesheet" type="text/css">
 </head>
-<body>
+
+	
+	
+	<body>
+
+
 	
 <div id="wrapper">
 	
@@ -17,7 +22,7 @@
 		<img src="../images/Wizard Web.png" alt="" width="100" id="logo"/>
 		<h1> Wizard Web Design Company </h1>
 		<h2> Become a web design wiz! </h2>
-	</div>	<!---end of banner--->
+  </div>	<!---end of banner--->
 	
 	
   
@@ -34,7 +39,7 @@
 	 
 </div> <!--end of top nav-->
 	
-	
+<!-- TemplateBeginEditable name="content" -->	
  <div id="content">	
 
 	
@@ -50,10 +55,14 @@
 	
 </div> <!--end of content-->
 
-	
+	<!-- TemplateEndEditable -->
 	
 <div id="footer">Content for  id "footer" Goes Here </div> <!---end of footer--->	
 	
 </div> <!---end of wrapper-->
-</body>
+
+	
+	
+	
+	</body>
 </html>
