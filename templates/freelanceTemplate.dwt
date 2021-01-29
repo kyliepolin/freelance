@@ -16,9 +16,9 @@
 	
 	<div class="img" id="banner">
 		
-		<img src="../images/Wizard Web.png" alt="" width="150" id="logo"/>
-	  <center><h1> Wizard Web Design Company </h1></center>
-		<h2> Become a web design wiz! </h2>
+		<img src="../images/Wizard Web.png" alt="" width="140" class="logo" id="logo"/>
+      <center><h1>Wizard Web Design Company</h1></center>
+	  <h2>Become a web design wiz!</h2>
 
   </div>	<!---end of banner--->
 	
